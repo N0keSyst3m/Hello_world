@@ -1,2 +1,2 @@
 # Hello_world
-This is used to learning
+This is used for learning
